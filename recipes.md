@@ -12,7 +12,7 @@ List of Ingredients:
 1 cup milk
 1/2 cup chocolate chips (optional)
 Powdered sugar (for dusting)
-Instructions:
+Instructions List:
 
 Preheat oven to 350°F (175°C) and grease a baking pan.
 In a large bowl, cream together the butter and sugar until light and fluffy.
