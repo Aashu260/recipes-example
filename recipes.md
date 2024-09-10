@@ -1,6 +1,6 @@
 # Recipes List
 
-Ingredients Lists are following:
+List of Ingredients:
 
 2 cups all-purpose flour
 1 cup granulated sugar
