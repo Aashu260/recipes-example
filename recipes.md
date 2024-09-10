@@ -5,13 +5,14 @@ List of Ingredients:
 2 cups all-purpose flour
 1 cup granulated sugar
 1/2 cup unsalted butter (softened)
-2 large eggs
+2 large eggs(OR 3 MEDIUM)
 1 teaspoon vanilla extract
 1 1/2 teaspoons baking powder
 1/2 teaspoon salt
 1 cup milk
 1/2 cup chocolate chips (optional)
 Powdered sugar (for dusting)
+
 Instructions List:
 
 Preheat oven to 350°F (175°C) and grease a baking pan.
@@ -25,7 +26,8 @@ Bake for 25-30 minutes, or until a toothpick inserted into the center comes out 
 Let the cake cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.
 Dust with powdered sugar before serving if desired.
 Feel free to modify it based on what you're making or the flavors you prefer!
-Congrats! You are Done.
+Congrats! You are Done. YOU MADE A CAKE.
 
 HIIIdddf
 Tweety the bird
+
