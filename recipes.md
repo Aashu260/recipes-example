@@ -9,7 +9,7 @@ List of Ingredients:
 2 large eggs(OR 3 MEDIUM)
 1 teaspoon vanilla extract
 1 1/2 teaspoons baking powder
-1/2 teaspoon salt
+1/2 teaspoon salt (according to taste)
 
 <!-- 1 cup milk -->
 
