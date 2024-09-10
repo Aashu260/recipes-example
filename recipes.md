@@ -1,15 +1,18 @@
 # Recipes List
-Receipe for a Cake
+
+Cake tika masala
 List of Ingredients:
 
 2 cups all-purpose flour
 1 cup granulated sugar
 1/2 cup unsalted butter (softened)
-2 large eggs
+2 large eggs (NOT OPTIONAL)
 1 teaspoon vanilla extract
 1 1/2 teaspoons baking powder
 1/2 teaspoon salt
-1 cup milk
+
+<!-- 1 cup milk -->
+
 1/2 cup chocolate chips (optional)
 Powdered sugar (for dusting)
 Instructions List:
@@ -24,8 +27,12 @@ Pour the batter into the prepared pan and smooth the top with a spatula.
 Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.
 Let the cake cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.
 Dust with powdered sugar before serving if desired.
-Feel free to modify it based on what you're making or the flavors you prefer!
-Congrats! You are Done.
+
+<!-- Feel free to modify it based on what you're making or the flavors you prefer! -->
+
+Congrats! You are Done. YOU BAKED A CAKE!
+
+This cake is good for 6 people, for more double the receipe
 
 HIIIdddf
 Tweety the bird
